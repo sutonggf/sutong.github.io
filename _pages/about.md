@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate research fellow faculty at Nanjing University (School of Engineering Management). 
-I got a doctorate degree in management from Xiamen University and a bachelor's degree in management from the China University of Geosciences (Wuhan). 
-Welcome any friendly communication and cooperation of scholars.
+I am an associate research fellow faculty at Nanjing University (School of Engineering Management).  <br />
+I got a doctorate degree in management from Xiamen University and a bachelor's degree in management from the China University of Geosciences (Wuhan).  <br />
+Welcome any friendly communication and cooperation of scholars. <br />
 
 Research Area
 ======
@@ -21,5 +21,5 @@ Research Area
 
 Contacts
 ======
-xmutongsu@163.com; sutonggf@nju.edu.cn
+xmutongsu@163.com; sutonggf@nju.edu.cn <br />
 [Google Scholar](https://scholar.google.com/citations?user=46FWdqIAAAAJ&hl=en/)
