@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "苏彤 (Tong Su)/ Nanjing University"
+title                    : "苏彤 / 南京大学"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "苏彤（Tong Su）"
   pronouns         : "He/his"  
-  bio              : "Short biography for the left-hand sidebar"
-  employer         : "School of Engineering Management, Nanjing University"
+  bio              : "Associate Research Fellow in Financial Engineering and Fintech"
+  employer         : "Nanjing University"
   email            : "sutonggf@nju.edu.cn" 
 
   # Academic websites
