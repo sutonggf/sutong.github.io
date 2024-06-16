@@ -8,9 +8,7 @@ redirect_from:
 ---
 
 I am an associate research fellow faculty at Nanjing University (School of Engineering Management). 
-
 I got a doctorate degree in management from Xiamen University and a bachelor's degree in management from the China University of Geosciences (Wuhan). 
-
 Welcome any friendly communication and cooperation of scholars.
 
 Research Area
