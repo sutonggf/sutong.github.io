@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tong Su (苏彤)"
+title: "苏彤 (Tong Su)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 I am an associate research fellow faculty at Nanjing University (School of Engineering Management). 
+
 I got a doctorate degree in management from Xiamen University and a bachelor's degree in management from the China University of Geosciences (Wuhan). 
+
 Welcome any friendly communication and cooperation of scholars.
 
 Research Area
@@ -18,3 +20,8 @@ Research Area
 3. Energy Commodity and Futures Markets.
 4. Financial Risk and Time-series Modelling.
 5. Applied Econometrics in Finance.
+
+Contacts
+======
+xmutongsu@163.com; sutonggf@nju.edu.cn
+[Google Scholar](https://scholar.google.com/citations?user=46FWdqIAAAAJ&hl=en/)
