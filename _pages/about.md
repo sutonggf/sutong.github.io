@@ -1,6 +1,6 @@
 ---
 permalink: /
-  title: "About Me"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I am an associate research fellow faculty at Nanjing University (School of Engineering Management).  <br />
-I got a doctorate degree in management from Xiamen University, under the Professor [Boqiang Lin].
+I got a doctorate degree in management from Xiamen University, under the Professor [Boqiang Lin](bqlin@xmu.edu.cn).
 I got a bachelor's degree in management from the China University of Geosciences (Wuhan), under the Professor Jing Yu.  <br />
 Welcome any friendly communication and cooperation of scholars. <br />
 
