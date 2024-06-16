@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "苏彤 (Tong Su)"
+  title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 I am an associate research fellow faculty at Nanjing University (School of Engineering Management).  <br />
-I got a doctorate degree in management from Xiamen University and a bachelor's degree in management from the China University of Geosciences (Wuhan).  <br />
+I got a doctorate degree in management from Xiamen University, under the Professor [Boqiang Lin](bqlin@xmu.edu.cn).
+I got a bachelor's degree in management from the China University of Geosciences (Wuhan), under the Professor Jing Yu.  <br />
 Welcome any friendly communication and cooperation of scholars. <br />
 
 Research Area
@@ -21,5 +22,6 @@ Research Area
 
 Contacts
 ======
-xmutongsu@163.com; sutonggf@nju.edu.cn <br />
-[Google Scholar](https://scholar.google.com/citations?user=46FWdqIAAAAJ&hl=en/)
+xmutongsu@163.com  <br />
+sutonggf@nju.edu.cn <br />
+Pingcang Lane, Gulou District, Nanjing
